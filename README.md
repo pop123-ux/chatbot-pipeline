@@ -150,3 +150,10 @@ To add new intents, edit `intents.json` with new patterns and responses, then re
 ## License
 
 MIT
+
+## 🔗 More
+
+- Author: [@pop123-ux](https://github.com/pop123-ux)
+- Medium write-ups: [medium.com/@Pop123](https://medium.com/@Pop123)
+
+P.S: I usually prefer the PyTorch framework over Tensorflow, this was really a bit of a struggle :)
